@@ -1,3 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1,CANAL1BEINS
+
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3747
+
+
 #EXTINF:-1,CANALDIRECTVHD
 
 http://tv.nstvlatino.com:8080/jairo1/jairo123/7863
