@@ -1,81 +1,1098 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Without category",Comedy Central
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/820.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Without category",De Pelicula
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/219.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="Without category",A&E
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/382.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="Without category",A&E
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/384.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",A&E USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/766.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",A+
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3625.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ABC 7 Los Angeles
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3465.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ABC NY HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/501.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ABC10 HD Atlanta
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3459.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Absolute 90s Radio
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/898.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Absolute Country Hits Radio
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/899.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Absolute TOP 40 Radio
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Absolute Trance
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/901.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Acapella
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/904.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ActionMax East
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/23.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ADN 40 HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/135.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Adore Jazz
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/905.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Adult Urban Hits Choice
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/906.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Afterbeat Electronica
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/907.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",All Euro 80's
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/908.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",All Otto Classical Music
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/902.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",All Times & Urban Gospel
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/909.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Alternative Rock X Hits
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/910.m3u8
+#EXTINF:0 tvg-id="mgm-int" group-title="Without category",AMC
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/374.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",America's Best Ballads
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/911.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Anal
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/397.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Without category",Animal Planet
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/377.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Animal Planet USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/761.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",arenasport1 (Stadium)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/319.m3u8
+#EXTINF:0 tvg-id="AXN.it" group-title="Without category",AXN HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/373.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",AZ CInema
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/211.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",AZ Mundo HD-
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/209.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Without category",Azteca 7 HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/72.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",AZTECA UNO HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/491.m3u8
+#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="Without category",BABYFIRST
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/165.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Back To The 50's & 60's
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/912.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Back To The 80's (US)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/913.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Bay Smooth Jazz
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/914.m3u8
+#EXTINF:0 tvg-id="beINSPORTSenespanol.us" group-title="Without category",BeIN SPORTS En Español
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/63.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Bein Sports esp
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/192.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",beIN Sports Laliga HD USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/64.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Blues Radio
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/915.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="Without category",Boomerang
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/678.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Boomerang (2 MB)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2272.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Bravo West HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/298.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",BUNDESLIGA 1 | WIN SPORTS
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3752.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",BUNDESLIGA 2 | ESPN + USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3753.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",BUNDESLIGA 3 | ESPN PLAY
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3754.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",BUNDESLIGA 4 | ESPN 2 PLAY
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3755.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",BUNDESLIGA 5 | MOVISTAR LIGA DE CAMPEONES
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3756.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canal 26 - 1
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/324.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canal 4
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2188.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canal 4 FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2192.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canal 5 SD (1 mb)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/73.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canal 6
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2185.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canal De Las Estrellas  (2 MB)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/818.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canal De Las Estrellas FHD D.F
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/817.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canal Provincial
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/326.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canal Toros FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3493.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Canale 7
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/401.m3u8
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Without category",Caracol HD.
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2071.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.us" group-title="Without category",Cartoon Network US
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/126.m3u8
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="Without category",Caza y Pesca HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/212.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",CBS (WFOR) (EST)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/495.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",CBS 11 Houston
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3471.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",CBS 4 Miami
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3470.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",CBS 4 Orlando
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3472.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",CBS News
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/496.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",CBS Sacramento
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3481.m3u8
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Without category",CBS Sports Network
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3574.m3u8
+#EXTINF:0 tvg-id="CDFPremium.cl" group-title="Without category",CDF Premium
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/194.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Chespirito
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/895.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Chillout Lounge Radio
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/903.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Cinco SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/85.m3u8
+#EXTINF:0 tvg-id="CanalPlusDCine.sp" group-title="Without category",Cine Dinamita SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/174.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Without category",Cinecanal
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/390.m3u8
+#EXTINF:0 tvg-id="CinemaxEastHD.us" group-title="Without category",Cinemax East HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Cinemax East USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/765.m3u8
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Without category",Cinemax FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/789.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Without category",Cinemax SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/358.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Circuit Pride
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/916.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Claro Sports FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/359.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Classic Country
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/917.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Classic Rock Replay
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/918.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Club 1
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/919.m3u8
+#EXTINF:0 tvg-id="Cnninternacional.br" group-title="Without category",CNNI
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Comedy Central-
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/372.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Cozi TV East
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3617.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Dance One
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/920.m3u8
+#EXTINF:0 tvg-id="DePeliculaClasico.us" group-title="Without category",De Pelicula Clasico
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3568.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",De Pelicula Plus FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",DirecTv
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/181.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Directv Sports + FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/55.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Directv Sports + SD Arg
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/56.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",DirecTv Sports 2
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/183.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Directv Sports EC HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/58.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Directv Sports sd Peru
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/689.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Without category",Discovery Channel
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/389.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Discovery Channel USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/762.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Discovery Familia Esp
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3853.m3u8
+#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="Without category",Discovery Family
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/825.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Without category",Discovery H&H
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/163.m3u8
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Without category",Discovery Home & Health
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/385.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Without category",Discovery ID
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/388.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",DIscovery ID USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/763.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Without category",Discovery Kids
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/169.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Discovery Life US
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/826.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Without category",Discovery Science
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/827.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Without category",Discovery Turbo
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/387.m3u8
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Without category",Discovery Turbo HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/931.m3u8
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Without category",Discovery World
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/380.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Without category",Disney Channel
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/830.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Disney Channel (1 MB)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/679.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Without category",Disney Junior
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/680.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Without category",Distrito Comedia
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/381.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Dubai Racing
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/336.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Without category",DW
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/489.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",E! East HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3647.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",E! Entertaiment (2 MB)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/371.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",E! Enterteiment HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/297.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",EC | GOL TV HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3967.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",El Chapulin Colorado
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/891.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",El Señor de los Cielo
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/92.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ESPN 2 HD Brasil
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3456.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Espn 2 mx
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/159.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Espn 2 Sur (ARG)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/166.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ESPN 2 US HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/795.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Espn 3 mx
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/160.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Espn 3 Sur (ARG)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/167.m3u8
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Without category",ESPN eXtra HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/328.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Espn mx
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/157.m3u8
+#EXTINF:0 tvg-id="ESPNews.us" group-title="Without category",ESPN News
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/794.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Espn Sur (ARG)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/164.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Without category",Espn Usa
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/171.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Estrella D.F
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/86.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Eternal Praise & Worship
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/921.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",F1 Movistar HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/777.m3u8
+#EXTINF:0 tvg-id="fashion" group-title="Without category",Fashion TV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/922.m3u8
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="Without category",Foro TV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/365.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="Without category",FOX  Life SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/363.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX  Sports 1 Sur FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/118.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX (KSAZ Phoenix AZ)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3463.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX 11 Los Angeles
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3460.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX 26 Huston
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3461.m3u8
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Without category",FOX Action FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/105.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Action FHD (Dual Audio)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/104.m3u8
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Without category",FOX Action SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/364.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Channel (1 MB)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/769.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Channel FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/93.m3u8
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Without category",FOX Cinema FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/98.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Cinema FHD Sub
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/97.m3u8
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Without category",FOX Classics FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/96.m3u8
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Without category",FOX Comedy FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/95.m3u8
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Without category",FOX Comedy HD.
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/784.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Denver
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3462.m3u8
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="Without category",FOX Deportes
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Family FHD-
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/94.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX FAMILY FHD COL
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3478.m3u8
+#EXTINF:0 tvg-id="FoxFamilyE.mx" group-title="Without category",FOX Family hd
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/361.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Houston TX
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3479.m3u8
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Without category",FOX Movies FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/107.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Fox Movies FHD (Dual Audio)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/108.m3u8
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="Without category",FOX News Channel
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3483.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Sacramento (KTXL)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3538.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Without category",FOX SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/386.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Series FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/109.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Series FHD (Dual Audio)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Sports 1 ARG HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/112.m3u8
+#EXTINF:0 tvg-id="ESPN.nl" group-title="Without category",FOX Sports 1 FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/113.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Sports 1 MX FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/114.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Sports 2 ARG HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/116.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Without category",Fox Sports 2 mx SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/145.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Sports 3 MX SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Fox Sports 3 sur
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/154.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Fox Sports Premium HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/155.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX Sports Prime HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Fox Sports sur
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/149.m3u8
+#EXTINF:0 tvg-id="france24" group-title="Without category",France 24
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/1940.m3u8
+#EXTINF:0 tvg-id="FOXSports1HD.us" group-title="Without category",FS1 HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/131.m3u8
+#EXTINF:0 tvg-id="FOXSports2HD.us" group-title="Without category",FS2 HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/132.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FUTV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3534.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FUTV (CO)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3570.m3u8
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Without category",FX FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/44.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",FXM FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3320.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Galavision NY HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/53.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Gol Peru FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/693.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Gol Peru HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/52.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Gol Tv ecuador
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/184.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Golden Plus HD-
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/376.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Golden Premier FHD (Dual Audio)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/103.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Golden Premiere  HD (COL)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3631.m3u8
+#EXTINF:0 tvg-id="Golf.fr" group-title="Without category",Golf Channel
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/780.m3u8
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="Without category",Golf Channel FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/50.m3u8
+#EXTINF:0 tvg-id="GolTV.us" group-title="Without category",GOLTV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/51.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Goltv  Ecuador
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/1872.m3u8
+#EXTINF:0 tvg-id="GolTV.us" group-title="Without category",GOLTV US
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/333.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",H2 East Usa
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3547.m3u8
+#EXTINF:0 tvg-id="history2-rus" group-title="Without category",H2 SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/379.m3u8
+#EXTINF:0 tvg-id="HBO2East.us" group-title="Without category",HBO 2 East
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/752.m3u8
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Without category",HBO 2 SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/356.m3u8
+#EXTINF:0 tvg-id="HBOComedyHDEast.us" group-title="Without category",HBO Comedy East
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/43.m3u8
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Without category",HBO Family
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/355.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",HBO Family East (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/751.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",HBO Family FHD (Dual Audio)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/550.m3u8
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Without category",HBO Family FHD.
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/46.m3u8
+#EXTINF:0 tvg-id="HBO.hu" group-title="Without category",HBO FHD.
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/101.m3u8
+#EXTINF:0 tvg-id="Maxhd.br" group-title="Without category",HBO Mundi FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3436.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",HBO POP FHD (Dual Audio)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3319.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",HBO POP HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3496.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",HBO POP HD (ARG)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/790.m3u8
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Without category",HBO SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/354.m3u8
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Without category",HBO Signature East
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/753.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",HBO Xtreme 4K
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3317.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",HBO Xtreme East
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3497.m3u8
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="Without category",HBO Xtreme FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3318.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",HGTV East
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/396.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",High Voltage
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/923.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",History Channel (2 MB)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/375.m3u8
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Without category",History Channel FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/779.m3u8
+#EXTINF:0 tvg-id="History.us" group-title="Without category",History USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/760.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Image TV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/76.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",INGENIO TV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3582.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",IngenioTV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/77.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Jamz
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/924.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",LA 2 HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/472.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",LA LIGA 1 | ESPN 3 ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3765.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",LA LIGA 2 | DIRECTV ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3766.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",LA LIGA 3 | ESPN 2 ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3768.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",LA LIGA 4 | ESPN ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3769.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",LA LIGA 5 | BEIN ESP
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3770.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",LA LIGA 6 | BEIN ENG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3772.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Las Estrellas (Low)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/71.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Las Estrellas FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/775.m3u8
+#EXTINF:0 tvg-id="Latina.pe" group-title="Without category",latina
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/398.m3u8
+#EXTINF:0 tvg-id="Lifetime.us" group-title="Without category",Lifetime USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/767.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Los Pica Pietras
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2260.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Los Simpson
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/894.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",MegaTV PR
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/197.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",MEXIQUENSE
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/75.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Without category",Milenio TV FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/79.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",MLB Net FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/316.m3u8
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Without category",MLB Network
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/773.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",MLB| JUEGO 16
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3877.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Without category",MULTIMEDIOS
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/684.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",MultImedioTV (2 MB)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3528.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Music Choice | Dance
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/695.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Music Choice | Holiday Hits
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/697.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Music Choice | Musica Urbana
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Music Choice | POP And Country
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/701.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Music Choice | Randb Souls
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/703.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Music Choice | Rock
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/705.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Nat Geo Kids
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/218.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Nat Geo USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/768.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Nat Geo Wild USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/764.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Without category",NatGeo
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/930.m3u8
+#EXTINF:0 tvg-id="NatGeoMundo.us" group-title="Without category",Natgeo mundo
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/829.m3u8
+#EXTINF:0 tvg-id="wild-hd" group-title="Without category",NatGeo Wild FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/383.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBA PPVs
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3621.m3u8
+#EXTINF:0 tvg-id="NBA.blt" group-title="Without category",NBA TV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/774.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBC (WDSU- New Orleans LA)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3476.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBC 2 Houston
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3475.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBC 6  ( WTVJ ) SF
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/500.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBC Las Vegas NV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3473.m3u8
+#EXTINF:0 tvg-id="NBCSportsBayArea.us" group-title="Without category",NBC Sports bay area
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3576.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBC Sports bay area plus
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3577.m3u8
+#EXTINF:0 tvg-id="NBCUniverso.us" group-title="Without category",NBC Universo
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3683.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Without category",Nick Jr
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/172.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Nick Jr (2 MB)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/832.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Nick JR US
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/831.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Old School HipHop/RnB
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/926.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Once Niño mexico
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3579.m3u8
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Without category",Paramount HD720P
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/805.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",PREMIER LEAGUE 1 | ESPN ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3697.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",PREMIER LEAGUE 2 |ESPN 2 ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3749.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",PREMIER LEAGUE 3 | ESPN 3 ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3750.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",PREMIER LEAGUE 4 | UNIVERSO
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3778.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Punto 2
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/804.m3u8
+#EXTINF:0 tvg-id="Rai3.it" group-title="Without category",RAI 3 HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/290.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",RAI Italia HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/801.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",RCN FHD.
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2073.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",RCN HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/177.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",RedBullTV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/306.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",RedTraffic Big Dick HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/302.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",RedTraffic Blowjob HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/399.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",RedTraffic Latina HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/301.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",RedTraffic Pornstar HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/400.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Reggae Trade
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/925.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Repretel 4 SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3638.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Repretel 6 SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3639.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SERIE A 1 | ESPN 2 MX
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3787.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SERIE A 2 | ESPN 3 ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3788.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SERIE A 3 | FOX SPORTS ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3790.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SERIE A 4 | ESPN ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3791.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SERIE A 5 | ESPN 2 ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3792.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SERIE A 6 | ESPN PLAY
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3793.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SERIE A 7 | FOX SPORTS 2 ARG
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3794.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Showtime 2 (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/747.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SHOWTIME 2 USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3591.m3u8
+#EXTINF:0 tvg-id="ShowtimeBeyondHD.us" group-title="Without category",SHOWTIME BEYOND
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3595.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Showtime Beyond FHD (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/27.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Showtime Extreme (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/748.m3u8
+#EXTINF:0 tvg-id="ShowtimeNextHD.us" group-title="Without category",SHOWTIME NEXT
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3593.m3u8
+#EXTINF:0 tvg-id="ShowtimeShowcase.us" group-title="Without category",SHOWTIME SHOWCASE
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3592.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SHOWTIME TIME EAST
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3596.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SHOWTIME WOMEN
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3630.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SHOWTIME XTREME
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3597.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Siete hd
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/819.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Without category",Space
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/369.m3u8
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Without category",Space HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/928.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",START TV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3616.m3u8
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Without category",STARZ CINEMA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3601.m3u8
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Without category",STARZ COMEDY
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3600.m3u8
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="Without category",STARZ EDGE
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3599.m3u8
+#EXTINF:0 tvg-id="StarzEncoreBlack.us" group-title="Without category",STARZ ENCORE BLACK
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3646.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Starz Encore Classics FHD (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/35.m3u8
+#EXTINF:0 tvg-id="StarzEncoreFamily.us" group-title="Without category",STARZ ENCORE FAMILY
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3606.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Starz Encore Family FHD (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/36.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Starz Encore FHD (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/37.m3u8
+#EXTINF:0 tvg-id="StarzEncoreWest.us" group-title="Without category",STARZ ENCORE WEST
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3636.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",STARZ ENCORE WESTERN
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3603.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Starz Family FHD (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/40.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Starz In Black FHD (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/41.m3u8
+#EXTINF:0 tvg-id="StarzKids-FamilyHD.us" group-title="Without category",STARZ KIDS & FAMILY
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3604.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Starz Kids & Family FHD (es)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/42.m3u8
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Without category",Studio Universal FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/859.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Studio Universal HD-
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/134.m3u8
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Without category",SyFy HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/291.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Without category",TBS
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/368.m3u8
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Without category",TBS FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/353.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Teleamazonas HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/1874.m3u8
+#EXTINF:0 tvg-id="Telefe.ar" group-title="Without category",Telefe SD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/180.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Without category",Teleformula
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/84.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Without category",Telemundo
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/153.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo (KGLA New Orleans LA)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2225.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo 20 San Diego HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3629.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo 44
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3535.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo Connecticut
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2223.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo International HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3566.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo Las Vegas
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2222.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo Los Angeles
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2228.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo Miami
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo Miami FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2219.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo New York HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo PR HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/193.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo Sacramento
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2221.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Telemundo San Antonio
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2224.m3u8
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Without category",Tennis Channel
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/781.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",The Weather Network
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/330.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Theater HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3466.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Tigo Sports HD Costa Rica
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2016.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Tigo Sports HD Paraguay
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2015.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TLC East HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/294.m3u8
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Without category",TLC FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/787.m3u8
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Without category",TLnovelas
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2721.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TLX
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/325.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TNT (K4)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3627.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Without category",TNT FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/786.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TNT FHD (ARG)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3626.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Without category",TNT Series  HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/352.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TNT Sports
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/156.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TNT West HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/293.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Tru TV HD-
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/367.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TUDN | USA
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3549.m3u8
+#EXTINF:0 tvg-id="TVChili.se" group-title="Without category",TV Chile
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/151.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TV GALICIA 2 HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/486.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TV GALICIA HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/487.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",TV4 GUANAJUATO
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/78.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",UFC Figh Pass HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/187.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Without category",Unicable
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/222.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Unimas (KTFO-Austin_TX)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2210.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Unimas (WFPA-Philadelphia_PA)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2213.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Unimas Dallas
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2212.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Unimas Las Vegas
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2215.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Unimas NewYork
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2216.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Without category",Universal Channel
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/778.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Universal Kids US
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/127.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision  KFPH-Phoenix
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3541.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision (KDTV San Francisco Oak San Jose)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision (KTVW Phoenix Prescott)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2206.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision (WXTV-New_York_NY)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3489.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision 41 HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2202.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision Chicago HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2205.m3u8
+#EXTINF:0 tvg-id="UnivisionEastHD.us" group-title="Without category",Univision East HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2203.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision Huston
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/19.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision Huston HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2204.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision Los Angeles
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3533.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision NewYork
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2209.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univision PR HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/198.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",UNIVISION TLENOVELAS
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3490.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Univison (WLTV-Miami-Ft._Lauderdale)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2207.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",US | GOL TV ESP
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3966.m3u8
+#EXTINF:0 tvg-id="USANetwork.us" group-title="Without category",USA NETWORK HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/299.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Vamos HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/861.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Wapa 2 FHD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/196.m3u8
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Without category",Warner Channel
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/366.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",WinSports HD
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/2076.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",WOW!TV
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/1954.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",WWE Show
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/190.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",YES Network (YANKE)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Yes Network HD (Yanke)
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/406.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Zona Futbol
+http://skycastersupports.mine.nu:25461/live/Ar/KM9bS2YaTv/3572.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - BEIN SPORTS Ñ HD
+http://Tv.nousiptv.com:8080/Lucy/123456/3747
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - BEIN SPORTS SD
+http://Tv.nousiptv.com:8080/Lucy/123456/43187
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - DIRECTV SPORTS HD
+http://Tv.nousiptv.com:8080/Lucy/123456/7863
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - DIRECTV SPORTS
+http://Tv.nousiptv.com:8080/Lucy/123456/33512
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - DIRECTV SPORTS 2 HD
+http://Tv.nousiptv.com:8080/Lucy/123456/32882
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - DIRECTV SPORTS PLUS HD
+http://Tv.nousiptv.com:8080/Lucy/123456/27879
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - DIRECTV SPORTS PLUS
+http://Tv.nousiptv.com:8080/Lucy/123456/8520
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX DEPORTES USA HD
+http://Tv.nousiptv.com:8080/Lucy/123456/3753
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX SPORTS 1 SUR HD
+http://Tv.nousiptv.com:8080/Lucy/123456/3612
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX SPORTS 1 SUR
+http://Tv.nousiptv.com:8080/Lucy/123456/18580
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX SPORTS 2 SUR HD
+http://Tv.nousiptv.com:8080/Lucy/123456/16139
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX SPORTS 2 SUR SD
+http://Tv.nousiptv.com:8080/Lucy/123456/42456
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX SPORTS 3 SUR HD
+http://Tv.nousiptv.com:8080/Lucy/123456/33475
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX SPORTS 3 SUR SD
+http://Tv.nousiptv.com:8080/Lucy/123456/43640
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX SPORTS MX
+http://Tv.nousiptv.com:8080/Lucy/123456/3267
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX SPORTS 2 MX
+http://Tv.nousiptv.com:8080/Lucy/123456/3268
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - FOX SPORTS 3 MX
+http://Tv.nousiptv.com:8080/Lucy/123456/4008
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN DEPORTES HD
+http://Tv.nousiptv.com:8080/Lucy/123456/3613
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN 1 SUR HD
+http://Tv.nousiptv.com:8080/Lucy/123456/3614
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN 1 SUR SD
+http://Tv.nousiptv.com:8080/Lucy/123456/33469
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN 2 SUR HD
+http://Tv.nousiptv.com:8080/Lucy/123456/43637
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN 2 SUR SD
+http://Tv.nousiptv.com:8080/Lucy/123456/3616
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN 3 SUR HD
+http://Tv.nousiptv.com:8080/Lucy/123456/3615
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN 3 SUR SD
+http://Tv.nousiptv.com:8080/Lucy/123456/43639
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN PLUS SUR FHD
+http://Tv.nousiptv.com:8080/Lucy/123456/7940
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN PLUS SUR HD
+http://Tv.nousiptv.com:8080/Lucy/123456/43638
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN MX
+http://Tv.nousiptv.com:8080/Lucy/123456/3178
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN 2 MX
+http://Tv.nousiptv.com:8080/Lucy/123456/3258
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN 3 MX
+http://Tv.nousiptv.com:8080/Lucy/123456/3260
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - ESPN PLUS MX
+http://Tv.nousiptv.com:8080/Lucy/123456/4120
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - UNIVISION TUDN USA
+http://Tv.nousiptv.com:8080/Lucy/123456/3751
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - UNIVISION DEPORTES FHD
+http://Tv.nousiptv.com:8080/Lucy/123456/3962
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - UNIVISION TUDN HD
+http://Tv.nousiptv.com:8080/Lucy/123456/4117
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - TUDN FHD
+http://Tv.nousiptv.com:8080/Lucy/123456/3963
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - TYC SPORTS HD
+http://Tv.nousiptv.com:8080/Lucy/123456/3759
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - TYC SPORTS
+http://Tv.nousiptv.com:8080/Lucy/123456/8247
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - TIGO SPORTS HD (PARAGUAY)
+http://Tv.nousiptv.com:8080/Lucy/123456/29832
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - CLARO SPORTS HD
+http://Tv.nousiptv.com:8080/Lucy/123456/12011
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - UFC  NETWORK FHD
+http://Tv.nousiptv.com:8080/Lucy/123456/4082
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - UFC FIGHT LATINOAMERICA
+http://Tv.nousiptv.com:8080/Lucy/123456/3421
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - GOLF LATIN AMERICA
+http://Tv.nousiptv.com:8080/Lucy/123456/33363
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - AYM SPORTS
+http://Tv.nousiptv.com:8080/Lucy/123456/3089
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - UFC LIVE HD
+http://Tv.nousiptv.com:8080/Lucy/123456/53372
+#EXTINF:0 tvg-id="ext" group-title="Without category",LD - TVC DEPORTES
+http://Tv.nousiptv.com:8080/Lucy/123456/4139
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBA - NBA TV FHD
+http://Tv.nousiptv.com:8080/Lucy/123456/3964
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBA - NBA TV
+http://Tv.nousiptv.com:8080/Lucy/123456/3710
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBA - ATLANTA HAWKS
+http://Tv.nousiptv.com:8080/Lucy/123456/18590
+#EXTINF:0 tvg-id="ext" group-title="Without category",NFL - RED ZONE
+http://Tv.nousiptv.com:8080/Lucy/123456/18589
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBA - CHICAGO BULLS
+http://Tv.nousiptv.com:8080/Lucy/123456/18591
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBA - LOS ANGELES LAKERS
+http://Tv.nousiptv.com:8080/Lucy/123456/18549
+#EXTINF:0 tvg-id="ext" group-title="Without category",NBA - TORONTO RAPTORS
+http://Tv.nousiptv.com:8080/Lucy/123456/18542
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - TELE12 FHD
+http://Tv.nousiptv.com:8080/Lucy/123456/3620
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - TELE12 HD
+http://Tv.nousiptv.com:8080/Lucy/123456/18731
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - TELE12 SD
+http://Tv.nousiptv.com:8080/Lucy/123456/18578
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - CANAL 4 HD
+http://Tv.nousiptv.com:8080/Lucy/123456/8334
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - CANAL 4 SD
+http://Tv.nousiptv.com:8080/Lucy/123456/18261
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - CANAL 10 HD
+http://Tv.nousiptv.com:8080/Lucy/123456/18567
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - CANAL 10 SD
+http://Tv.nousiptv.com:8080/Lucy/123456/3344
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - CANAL 5 (TNU)
+http://Tv.nousiptv.com:8080/Lucy/123456/19351
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - LA RED
+http://Tv.nousiptv.com:8080/Lucy/123456/35428
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - TV CIUDAD SD
+http://Tv.nousiptv.com:8080/Lucy/123456/16136
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - DEL SOL TV
+http://Tv.nousiptv.com:8080/Lucy/123456/34605
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - VTV FHD
+http://Tv.nousiptv.com:8080/Lucy/123456/3802
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - VTV HD
+http://Tv.nousiptv.com:8080/Lucy/123456/22204
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - VTV SD
+http://Tv.nousiptv.com:8080/Lucy/123456/3598
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - VTV Plus HD
+http://Tv.nousiptv.com:8080/Lucy/123456/19354
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - VTV Plus SD
+http://Tv.nousiptv.com:8080/Lucy/123456/52513
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - ESPN URUGUAY HD
+http://Tv.nousiptv.com:8080/Lucy/123456/3621
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - DIRECTV SPORTS URUGUAY
+http://Tv.nousiptv.com:8080/Lucy/123456/2041
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - MAROÑAS ENTERTAIMENT (PRUEBA)
+http://Tv.nousiptv.com:8080/Lucy/123456/31618
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - PPV URUGUAY 3
+http://Tv.nousiptv.com:8080/Lucy/123456/43600
+#EXTINF:0 tvg-id="ext" group-title="Without category",URU - CANAL M (TEST)
+http://Tv.nousiptv.com:8080/Lucy/123456/34608
+#EXTINF:0 tvg-id="ext" group-title="Without category",ENT - DEL SOL TV
+http://Tv.nousiptv.com:8080/Lucy/123456/34603
+#EXTINF:0 tvg-id="ext" group-title="Without category",ENT - EWTN
+http://Tv.nousiptv.com:8080/Lucy/123456/34609
+#EXTINF:0 tvg-id="ext" group-title="Without category",US.SP - ESPN U
+http://Tv.nousiptv.com:8080/Lucy/123456/34602
 
-#EXTINF:-1,CANAL1BEINS
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3747
-
-
-#EXTINF:-1,CANALDIRECTVHD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/7863
-
-
-#EXTINF:-1,CANALDIRECTV SD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/33512
-
-
-
-#EXTINF:-1,CANALDIRECTV2HD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/32882
-
-
-#EXTINF:-1,CANALDIRECTV2SD
-
-
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/32881
-
-
-#EXTINF:-1,CANALDIRECTV+HD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/27879
-
-
-
-#EXTINF:-1,CANALDIRETV+SD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/8520
-
-
-#EXTINF:-1,CANALFOXSPORTSUR1HD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3612
-
-
-#EXTINF:-1,CANALFOXSPORT1SD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/18580
-
-
-#EXTINF:-1,CANALFOXSPORT2HD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/16139
-
-
-#EXTINF:-1,CANALFOXSPORT2SD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/42456
-
-
-#EXTINF:-1,CANALFOXSPORT3HD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/33475
-
-
-#EXTINF:-1,CANALESPNHD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3613
-
-
-#EXTINF:-1,CANALESPN1SUR
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3614
-
-
-#EXTINF:-1,CANALESPN1SD
-
-http://tv.nstvlatino.com:8080/jairo1/jairo123/33469
-
-
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: A&E HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39148
+#EXTINF:0 tvg-id="A24.ar" group-title="Argentina",ARG: A24
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39150
+#EXTINF:0 tvg-id="AMC.ar" group-title="Argentina",ARG: AMC
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39151
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: Amica TV
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39152
+#EXTINF:0 tvg-id="Argentinisima.ar" group-title="Argentina",ARG: Argentinisima
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39154
+#EXTINF:0 tvg-id="AXN.ar" group-title="Argentina",ARG: AXN
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39156
+#EXTINF:0 tvg-id="BabyTV.ar" group-title="Argentina",ARG: BABY TV
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39157
+#EXTINF:0 tvg-id="C5N.ar" group-title="Argentina",ARG: C5N HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39160
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: Canal 9 Litoral Parana
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39162
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: Canal 26 Noticias HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39164
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: Canal de la Ciudad
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39165
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: canal orbe 21
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39166
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: Canal Rural HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39167
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: Cartoon Network FHD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39169
+#EXTINF:0 tvg-id="A24.ar" group-title="Argentina",ARG: A24
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39150
+#EXTINF:0 tvg-id="AMC.ar" group-title="Argentina",ARG: AMC
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39151
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: Amica TV
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39152
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: CINEMAX FHD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39175
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: CNN NEWS
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39178
+#EXTINF:0 tvg-id="CronicaTV.ar" group-title="Argentina",ARG: Cronica TV
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39180
+#EXTINF:0 tvg-id="DeporTV.ar" group-title="Argentina",ARG: DeporTV
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39181
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: Disney Junior HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39194
+#EXTINF:0 tvg-id="DisneyXD.ar" group-title="Argentina",ARG: Disney XD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39196
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: DW
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39198
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: E! HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39199
+#EXTINF:0 tvg-id="Encuentro.ar" group-title="Argentina",ARG: Encuentro
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39205
+#EXTINF:0 tvg-id="ESPN.ar" group-title="Argentina",ARG: ESPN
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39206
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="Argentina",ARG: ESPN 2
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39208
+#EXTINF:0 tvg-id="ESPN3SD.ar" group-title="Argentina",ARG: ESPN 3
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39210
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: ESPN EXTRA
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39212
+#EXTINF:0 tvg-id="EuropaEuropa.ar" group-title="Argentina",ARG: Europa Europa
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39214
+#EXTINF:0 tvg-id="FilmArts.ar" group-title="Argentina",ARG: Film & Arts
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39215
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: FOX Channel
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39216
+#EXTINF:0 tvg-id="FoxLife.ar" group-title="Argentina",ARG: FOX Life
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39217
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: FOX NEWS Channel
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39219
+#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="Argentina",ARG: FOX PREMIUM ACTION
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39220
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: FOX PREMIUM CLASSICS HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39222
+#EXTINF:0 tvg-id="FoxPremiumFamily.ar" group-title="Argentina",ARG: FOX PREMIUM FAMILY
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39224
+#EXTINF:0 tvg-id="FoxPremiumMoviesHD.ar" group-title="Argentina",ARG: FOX PREMIUM Movies HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39225
+#EXTINF:0 tvg-id="FoxPremiumSeriesHD.ar" group-title="Argentina",ARG: FOX PREMIUM Series HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39226
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: FOX SPORTS 1 FHD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39227
+#EXTINF:0 tvg-id="FoxSports3HD.ar" group-title="Argentina",ARG: FOX SPORTS 3 HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39229
+#EXTINF:0 tvg-id="FoxSportsHD.ar" group-title="Argentina",ARG: FOX SPORTS FHD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39230
+#EXTINF:0 tvg-id="FX.ar" group-title="Argentina",ARG: FX
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39232
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: GARAGE HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39233
+#EXTINF:0 tvg-id="Glitz.ar" group-title="Argentina",ARG: Glitz
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39234
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: GOLF Channel
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39236
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: HBO 2 HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39237
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: HBO FAMILY
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39238
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: HBO POP HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39242
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: HBO XTREME
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39244
+#EXTINF:0 tvg-id="HTV.ar" group-title="Argentina",ARG: HTV
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39249
+#EXTINF:0 tvg-id="MasChic.ar" group-title="Argentina",ARG: MAS CHIC
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39253
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG MTV HITS HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39255
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: NAT GEO FHD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39261
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: NAT GEO KIDS HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39263
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: NAT GEO WILD HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39265
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: nickelodeon FHD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39271
+#EXTINF:0 tvg-id="SonyHD.ar" group-title="Argentina",ARG: SONY HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39279
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: STUDIO UNIVERSAL HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39281
+#EXTINF:0 tvg-id="Syfy.ar" group-title="Argentina",ARG: SYFY
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39282
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: TBS VERY FUNNY HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39283
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: TELEMUNDO
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39289
+#EXTINF:0 tvg-id="TNTHD.ar" group-title="Argentina",ARG: TNT HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39291
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: TNT Series HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39292
+#EXTINF:0 tvg-id="TodoNoticias.ar" group-title="Argentina",ARG: Todo Noticias
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39294
+#EXTINF:0 tvg-id="Tooncast.ar" group-title="Argentina",ARG: Tooncast HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39295
+#EXTINF:0 tvg-id="TRUTVHD.ar" group-title="Argentina",ARG: Tru TV HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39296
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: TV Plica HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39297
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: UNIVERSAL TV
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39300
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: VH1 HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39301
+#EXTINF:0 tvg-id="ext" group-title="Argentina",ARG: WARNER HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/3930
